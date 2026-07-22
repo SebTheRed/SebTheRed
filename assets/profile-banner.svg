@@ -3,17 +3,17 @@
   <desc id="description">A dark blue and teal profile banner for Sebastian Belfonti, founder of Volt Applications.</desc>
   <defs>
     <linearGradient id="background" x1="70" y1="0" x2="1210" y2="360" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0B1729"/>
-      <stop offset="0.53" stop-color="#123653"/>
-      <stop offset="1" stop-color="#0A1F38"/>
+      <stop stop-color="#081324"/>
+      <stop offset="0.53" stop-color="#0B2B55"/>
+      <stop offset="1" stop-color="#06162B"/>
     </linearGradient>
     <linearGradient id="accent" x1="290" y1="61" x2="960" y2="310" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#53E0C2"/>
-      <stop offset="1" stop-color="#47A8FF"/>
+      <stop stop-color="#00E6FE"/>
+      <stop offset="1" stop-color="#0066FF"/>
     </linearGradient>
     <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1014 37) rotate(126.764) scale(427.767 488.15)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#2DA9E8" stop-opacity=".34"/>
-      <stop offset="1" stop-color="#2DA9E8" stop-opacity="0"/>
+      <stop stop-color="#0066FF" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#0066FF" stop-opacity="0"/>
     </radialGradient>
     <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
       <path d="M38 0H0V38" stroke="#D9F8FF" stroke-opacity=".07"/>
@@ -36,14 +36,14 @@
   <text x="91" y="174" fill="white" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="54" font-weight="700" letter-spacing="-1.7">Sebastian Belfonti</text>
   <text x="94" y="216" fill="#9FC3D7" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="20" font-weight="600" letter-spacing="3">FOUNDER · VOLT APPLICATIONS</text>
   <rect x="94" y="254" width="472" height="1" fill="#A7D9E9" fill-opacity=".28"/>
-  <text x="94" y="295" fill="#D8F3F8" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24" font-weight="400">Clear software for real-world work.</text>
-  <g fill="#7DE3D0" fill-opacity=".8">
+  <text x="94" y="295" fill="#D8F3F8" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22" font-weight="400">Intelligent solutions. Electrifying experiences.</text>
+  <g fill="#00E6FE" fill-opacity=".8">
     <circle cx="1040" cy="101" r="5"/>
     <circle cx="1110" cy="161" r="5"/>
     <circle cx="1025" cy="222" r="5"/>
     <circle cx="1168" cy="245" r="5"/>
   </g>
-  <g stroke="#8AE7D5" stroke-opacity=".4" stroke-width="2">
+  <g stroke="#00E6FE" stroke-opacity=".4" stroke-width="2">
     <path d="M1040 101L1110 161L1025 222L1168 245"/>
     <path d="M1025 222L1093 301"/>
   </g>
