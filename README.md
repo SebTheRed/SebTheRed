@@ -1,6 +1,14 @@
-# Hi, I'm Sebastian
+<p align="center">
+  <img src="./assets/profile-banner.svg" width="100%" alt="Sebastian Belfonti — Founder of Volt Applications" />
+</p>
 
-I'm a React Native developer and the founder of [Volt Applications](https://voltapplications.com). I build straightforward software for real-world teams.
+<p align="center">
+  <strong>React Native developer</strong> · Founder of <a href="https://voltapplications.com">Volt Applications</a>
+</p>
+
+## About
+
+I build straightforward software that helps real-world teams do better work.
 
 ## What I do
 
@@ -12,6 +20,6 @@ I'm a React Native developer and the founder of [Volt Applications](https://volt
 
 Building useful, well-crafted software through Volt Applications.
 
-## Get in touch
-
-[voltapplications.com](https://voltapplications.com) · [info@voltapplications.com](mailto:info@voltapplications.com)
+<p align="center">
+  <a href="https://voltapplications.com">Website</a> · <a href="mailto:info@voltapplications.com">Email</a>
+</p>

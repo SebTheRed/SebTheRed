@@ -1,0 +1,50 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title description">
+  <title id="title">Sebastian Belfonti — Volt Applications</title>
+  <desc id="description">A dark blue and teal profile banner for Sebastian Belfonti, founder of Volt Applications.</desc>
+  <defs>
+    <linearGradient id="background" x1="70" y1="0" x2="1210" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1729"/>
+      <stop offset="0.53" stop-color="#123653"/>
+      <stop offset="1" stop-color="#0A1F38"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="290" y1="61" x2="960" y2="310" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#53E0C2"/>
+      <stop offset="1" stop-color="#47A8FF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1014 37) rotate(126.764) scale(427.767 488.15)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2DA9E8" stop-opacity=".34"/>
+      <stop offset="1" stop-color="#2DA9E8" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse">
+      <path d="M38 0H0V38" stroke="#D9F8FF" stroke-opacity=".07"/>
+    </pattern>
+    <filter id="shadow" x="-20%" y="-30%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#04101E" flood-opacity=".32"/>
+    </filter>
+  </defs>
+  <rect width="1280" height="360" rx="24" fill="url(#background)"/>
+  <rect width="1280" height="360" rx="24" fill="url(#grid)"/>
+  <rect width="1280" height="360" rx="24" fill="url(#glow)"/>
+  <path d="M856 0L1280 0V360H1094L856 0Z" fill="#66E0C5" fill-opacity=".045"/>
+  <path d="M923 0L1280 0V360H1218L923 0Z" fill="#55AFFF" fill-opacity=".07"/>
+  <path d="M0 287C181 254 289 313 475 289C679 262 794 181 973 211C1089 230 1179 283 1280 258V360H0V287Z" fill="#061426" fill-opacity=".48"/>
+  <path d="M0 287C181 254 289 313 475 289C679 262 794 181 973 211C1089 230 1179 283 1280 258" stroke="url(#accent)" stroke-opacity=".5" stroke-width="2"/>
+  <g filter="url(#shadow)">
+    <rect x="92" y="65" width="55" height="55" rx="16" fill="url(#accent)"/>
+    <path d="M123.5 77L107 101H121L117.5 112L134 88H120L123.5 77Z" fill="#07182A"/>
+  </g>
+  <text x="91" y="174" fill="white" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="54" font-weight="700" letter-spacing="-1.7">Sebastian Belfonti</text>
+  <text x="94" y="216" fill="#9FC3D7" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="20" font-weight="600" letter-spacing="3">FOUNDER · VOLT APPLICATIONS</text>
+  <rect x="94" y="254" width="472" height="1" fill="#A7D9E9" fill-opacity=".28"/>
+  <text x="94" y="295" fill="#D8F3F8" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24" font-weight="400">Clear software for real-world work.</text>
+  <g fill="#7DE3D0" fill-opacity=".8">
+    <circle cx="1040" cy="101" r="5"/>
+    <circle cx="1110" cy="161" r="5"/>
+    <circle cx="1025" cy="222" r="5"/>
+    <circle cx="1168" cy="245" r="5"/>
+  </g>
+  <g stroke="#8AE7D5" stroke-opacity=".4" stroke-width="2">
+    <path d="M1040 101L1110 161L1025 222L1168 245"/>
+    <path d="M1025 222L1093 301"/>
+  </g>
+</svg>
